@@ -3,3 +3,5 @@ Go away! Breh, recently way way too many newbies have been begging me for help g
 So I want to show them what an awesome place this is. However, I will admit that it does get tiring after a while, especially after helping the 6th guy in a row. So, I decided
 To make this guide to help newbies! Not only will I get my hours for Horizons in, but if there's someone else that needs help in the future, I can send them this website along
 with my tips!
+
+Edit: Since I just came back from china after being there for a month and missing out on horizons, I'm transfering this over to Stardance...
