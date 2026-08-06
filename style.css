@@ -1,0 +1,14 @@
+body{
+    background-color: moccasin;
+    font-family: comic sans ms;
+}
+
+.index text{
+    color: chocolate;
+}
+
+img{
+    border-radius: 25;
+    width: 350 px;
+    max-width: 100%
+}
